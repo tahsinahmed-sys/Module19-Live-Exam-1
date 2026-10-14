@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,7 +10,6 @@ void main() {
 class BloodRequestsPage extends StatelessWidget {
   const BloodRequestsPage({super.key});
 
-  static const Color navy = Colors.indigo;
   static const Color red = Colors.red;
   static const Color grey = Colors.grey;
 
